@@ -1,0 +1,13 @@
+C:\Users\Jessi\OneDrive\Documents\jesse's study 2024\Data Structures and algorithms\Assessment3Folder\BSTree\BSTree\BSTree\bin\Debug\netcoreapp3.1\BSTree.exe
+C:\Users\Jessi\OneDrive\Documents\jesse's study 2024\Data Structures and algorithms\Assessment3Folder\BSTree\BSTree\BSTree\bin\Debug\netcoreapp3.1\BSTree.deps.json
+C:\Users\Jessi\OneDrive\Documents\jesse's study 2024\Data Structures and algorithms\Assessment3Folder\BSTree\BSTree\BSTree\bin\Debug\netcoreapp3.1\BSTree.runtimeconfig.json
+C:\Users\Jessi\OneDrive\Documents\jesse's study 2024\Data Structures and algorithms\Assessment3Folder\BSTree\BSTree\BSTree\bin\Debug\netcoreapp3.1\BSTree.runtimeconfig.dev.json
+C:\Users\Jessi\OneDrive\Documents\jesse's study 2024\Data Structures and algorithms\Assessment3Folder\BSTree\BSTree\BSTree\bin\Debug\netcoreapp3.1\BSTree.dll
+C:\Users\Jessi\OneDrive\Documents\jesse's study 2024\Data Structures and algorithms\Assessment3Folder\BSTree\BSTree\BSTree\bin\Debug\netcoreapp3.1\BSTree.pdb
+C:\Users\Jessi\OneDrive\Documents\jesse's study 2024\Data Structures and algorithms\Assessment3Folder\BSTree\BSTree\BSTree\obj\Debug\netcoreapp3.1\BSTree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jessi\OneDrive\Documents\jesse's study 2024\Data Structures and algorithms\Assessment3Folder\BSTree\BSTree\BSTree\obj\Debug\netcoreapp3.1\BSTree.AssemblyInfoInputs.cache
+C:\Users\Jessi\OneDrive\Documents\jesse's study 2024\Data Structures and algorithms\Assessment3Folder\BSTree\BSTree\BSTree\obj\Debug\netcoreapp3.1\BSTree.AssemblyInfo.cs
+C:\Users\Jessi\OneDrive\Documents\jesse's study 2024\Data Structures and algorithms\Assessment3Folder\BSTree\BSTree\BSTree\obj\Debug\netcoreapp3.1\BSTree.csproj.CoreCompileInputs.cache
+C:\Users\Jessi\OneDrive\Documents\jesse's study 2024\Data Structures and algorithms\Assessment3Folder\BSTree\BSTree\BSTree\obj\Debug\netcoreapp3.1\BSTree.dll
+C:\Users\Jessi\OneDrive\Documents\jesse's study 2024\Data Structures and algorithms\Assessment3Folder\BSTree\BSTree\BSTree\obj\Debug\netcoreapp3.1\BSTree.pdb
+C:\Users\Jessi\OneDrive\Documents\jesse's study 2024\Data Structures and algorithms\Assessment3Folder\BSTree\BSTree\BSTree\obj\Debug\netcoreapp3.1\BSTree.genruntimeconfig.cache
